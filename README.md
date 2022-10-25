@@ -15,6 +15,28 @@
 - Twitter: [@_royissues](https://twitter.com/_royissues)
 - LinkedIn: [@roy_jumah](www.linkedin.com/in/roy-jumah)
 
+## Getting Started
+
+To get a local copy up and running follow these simple example steps.
+
+### Prequisites
+
+- Git/Github
+- Visual Studio Code or any other equivalent tool
+- Knowledge in HTML and CSS
+
+
+### Install
+- To install locally run, git clone https://github.com/RoyJumah/Hello-Microverse.git, in your terminal.
+- open the cloned directory with VSCode
+- Install live server extension for VSCode.
+- Right click on the index.html file and select open with live server.
+
+
+### Usage
+
+ Feel free to use this project however you like
+
 ## 🤝 Contributing
 
 Contributions, issues, and feature requests are welcome!
