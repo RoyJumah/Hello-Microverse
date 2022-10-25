@@ -1,0 +1,4 @@
+# .gitingore
+
+test.md
+node_modules/
