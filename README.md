@@ -30,9 +30,7 @@ Give a ⭐️ if you like this project!
 
 ## Acknowledgments
 
-- Hat tip to anyone whose code was used
-- Inspiration
-- etc
+I would like to thanks Microverse for the lessons that enabled be to complete this exercise
 
 ## 📝 License
 
