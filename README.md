@@ -2,7 +2,7 @@
 
 # Hello Microverse
 
-> Description the project.
+> This is a welcome page created using HTML and CSS. The main aim was to put into practise some tools such as Git, Github, and Github flows, HTML and CSS linters, documenting a repo in a proffesional way and code reviews
 
 
 ## Built With
